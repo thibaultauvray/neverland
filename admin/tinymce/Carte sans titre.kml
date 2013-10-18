@@ -1,0 +1,2329 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Carte sans titre</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>boutiques.xls</name>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>MammaFashion</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>199, rue de la Croix-Nivert</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>75015</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>paris</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>48.8373024</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>2.2896932</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 199, rue de la Croix-Nivert
+Cp: 75015
+Villes: paris
+LAT: 48.8373024
+LONG: 2.2896932]]></description>
+				<Point>
+					<coordinates>2.2896932,48.8373024,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>H&amp;M</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>12 Avenue de Sceaux</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>78000</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Versailles</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>48.799333</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>2.127914</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 12 Avenue de Sceaux
+Cp: 78000
+Villes: Versailles
+LAT: 48.799333
+LONG: 2.127914]]></description>
+				<Point>
+					<coordinates>2.127914,48.799333,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Berenice</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>28 Rue Poliveau</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>75005</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Paris</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>48.840475</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>2.358799</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 28 Rue Poliveau
+Cp: 75005
+Villes: Paris
+LAT: 48.840475
+LONG: 2.358799]]></description>
+				<Point>
+					<coordinates>2.358799,48.840475,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Gabrielle Geppert</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>10-12 Rue du Docteur Albert Schweitzer</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>93700</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Drancy</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value> 48.925026</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>2.458191</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 10-12 Rue du Docteur Albert Schweitzer
+Cp: 93700
+Villes: Drancy
+LAT:  48.925026
+LONG: 2.458191]]></description>
+				<Point>
+					<coordinates>2.458191,48.925026,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>H&amp;M</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value> 52 Rue des Tournelles</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>75003</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Paris</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>48.856403</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>2.367554</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses:  52 Rue des Tournelles
+Cp: 75003
+Villes: Paris
+LAT: 48.856403
+LONG: 2.367554]]></description>
+				<Point>
+					<coordinates>2.367554,48.856403,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>MammaFashion</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>6 Rue André et Marie Louise Roure</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>92270</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Bois-Colombes</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>48.912392</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>2.25769</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 6 Rue André et Marie Louise Roure
+Cp: 92270
+Villes: Bois-Colombes
+LAT: 48.912392
+LONG: 2.25769]]></description>
+				<Point>
+					<coordinates>2.25769,48.912392,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Berenice</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>Chemin du Bouleux</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>14000</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Caen</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>49.175599</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>-0.380402</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: Chemin du Bouleux
+Cp: 14000
+Villes: Caen
+LAT: 49.175599
+LONG: -0.380402]]></description>
+				<Point>
+					<coordinates>-0.380402,49.175599,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>H&amp;M</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>30 Rue Basse</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>14000</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Caen</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>49.185025</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>-0.355682</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 30 Rue Basse
+Cp: 14000
+Villes: Caen
+LAT: 49.185025
+LONG: -0.355682]]></description>
+				<Point>
+					<coordinates>-0.355682,49.185025,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>MammaFashion</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>13 Rue Octave Feuillet</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>50000</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Saint-Lô</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>49.113973</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>-1.090393</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 13 Rue Octave Feuillet
+Cp: 50000
+Villes: Saint-Lô
+LAT: 49.113973
+LONG: -1.090393]]></description>
+				<Point>
+					<coordinates>-1.090393,49.113973,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>H&amp;M</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>52 Rue de Bretagne</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>76600</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Le Havre</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>49.488669</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>0.112953</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 52 Rue de Bretagne
+Cp: 76600
+Villes: Le Havre
+LAT: 49.488669
+LONG: 0.112953]]></description>
+				<Point>
+					<coordinates>0.112953,49.488669,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Berenice</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>57 Avenue Foch</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>76600</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Le Havre</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>49.493742</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>0.100336</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 57 Avenue Foch
+Cp: 76600
+Villes: Le Havre
+LAT: 49.493742
+LONG: 0.100336]]></description>
+				<Point>
+					<coordinates>0.100336,49.493742,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>H&amp;M</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>1-7 Passage des Martyrs</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>80080</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Amiens</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>49.903126</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>2.296143</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 1-7 Passage des Martyrs
+Cp: 80080
+Villes: Amiens
+LAT: 49.903126
+LONG: 2.296143]]></description>
+				<Point>
+					<coordinates>2.296143,49.903126,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>MammaFashion</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>36 Rue Saint-Patrice</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>76000</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Rouen</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>49.445986</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>1.090393</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 36 Rue Saint-Patrice
+Cp: 76000
+Villes: Rouen
+LAT: 49.445986
+LONG: 1.090393]]></description>
+				<Point>
+					<coordinates>1.090393,49.445986,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>H&amp;M</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>20 Rue Eugène Desteuque</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>51100</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Reims</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>49.255616</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>4.037476</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 20 Rue Eugène Desteuque
+Cp: 51100
+Villes: Reims
+LAT: 49.255616
+LONG: 4.037476]]></description>
+				<Point>
+					<coordinates>4.037476,49.255616,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Gabrielle Geppert</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>2-6 Rue Albert Lebrun</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>54000</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Nancy</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>48.684977</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>6.190796</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 2-6 Rue Albert Lebrun
+Cp: 54000
+Villes: Nancy
+LAT: 48.684977
+LONG: 6.190796]]></description>
+				<Point>
+					<coordinates>6.190796,48.684977,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Berenice</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>Rue Commandant Tissot</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>29200</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Brest</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>48.403132</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>-4.483795</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: Rue Commandant Tissot
+Cp: 29200
+Villes: Brest
+LAT: 48.403132
+LONG: -4.483795]]></description>
+				<Point>
+					<coordinates>-4.483795,48.403132,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>H&amp;M</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>24 Boulevard de la Liberté</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>35000</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Rennes</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>48.107592</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>-1.67902</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 24 Boulevard de la Liberté
+Cp: 35000
+Villes: Rennes
+LAT: 48.107592
+LONG: -1.67902]]></description>
+				<Point>
+					<coordinates>-1.67902,48.107592,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Gabrielle Geppert</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>9 Place de la République</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>72100</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Le Mans</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>48.00389</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>0.197067</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 9 Place de la République
+Cp: 72100
+Villes: Le Mans
+LAT: 48.00389
+LONG: 0.197067]]></description>
+				<Point>
+					<coordinates>0.197067,48.00389,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>MammaFashion</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>11-19 Rue Musette</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>21000</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Dijon</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>47.322627</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>5.039635</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 11-19 Rue Musette
+Cp: 21000
+Villes: Dijon
+LAT: 47.322627
+LONG: 5.039635]]></description>
+				<Point>
+					<coordinates>5.039635,47.322627,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Berenice</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>18 Rue du Petit Soleil</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>37000</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Tours</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>47.3940615</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>0.682561</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 18 Rue du Petit Soleil
+Cp: 37000
+Villes: Tours
+LAT: 47.3940615
+LONG: 0.682561]]></description>
+				<Point>
+					<coordinates>0.682561,47.3940615,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>H&amp;M</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>18 Rue Descartes</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>49100</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Angers</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>47.47554</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>-0.564766</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 18 Rue Descartes
+Cp: 49100
+Villes: Angers
+LAT: 47.47554
+LONG: -0.564766]]></description>
+				<Point>
+					<coordinates>-0.564766,47.47554,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Gabrielle Geppert</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>18 Rue de la Gourmette</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>44300</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Nantes</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>47.232252</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>-1.571045</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 18 Rue de la Gourmette
+Cp: 44300
+Villes: Nantes
+LAT: 47.232252
+LONG: -1.571045]]></description>
+				<Point>
+					<coordinates>-1.571045,47.232252,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>H&amp;M</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>5 Rue du Puygarreau</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>86000</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Poitiers</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>46.579961</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>0.341606</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 5 Rue du Puygarreau
+Cp: 86000
+Villes: Poitiers
+LAT: 46.579961
+LONG: 0.341606]]></description>
+				<Point>
+					<coordinates>0.341606,46.579961,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Gabrielle Geppert</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>Rue Jean-Baptiste Perronneau</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>17000</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>La Rochelle</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>46.169085</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>-1.17691</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: Rue Jean-Baptiste Perronneau
+Cp: 17000
+Villes: La Rochelle
+LAT: 46.169085
+LONG: -1.17691]]></description>
+				<Point>
+					<coordinates>-1.17691,46.169085,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>H&amp;M</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>7-11 Rue Mellaise</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>79000</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Niort</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>46.322465</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>-0.464172</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 7-11 Rue Mellaise
+Cp: 79000
+Villes: Niort
+LAT: 46.322465
+LONG: -0.464172]]></description>
+				<Point>
+					<coordinates>-0.464172,46.322465,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Gabrielle Geppert</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>1 Rue de la Chaîne</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>86000</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Poitiers</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>46.586804</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>0.342636</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 1 Rue de la Chaîne
+Cp: 86000
+Villes: Poitiers
+LAT: 46.586804
+LONG: 0.342636]]></description>
+				<Point>
+					<coordinates>0.342636,46.586804,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>H&amp;M</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>21 Place Jourdan</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>87000</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Limoges</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>45.831766</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>1.264458</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 21 Place Jourdan
+Cp: 87000
+Villes: Limoges
+LAT: 45.831766
+LONG: 1.264458]]></description>
+				<Point>
+					<coordinates>1.264458,45.831766,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Berenice</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>53 Rue Bonnabaud</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>63000</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Clermont-Ferrand</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>45.772887</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>3.080635</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 53 Rue Bonnabaud
+Cp: 63000
+Villes: Clermont-Ferrand
+LAT: 45.772887
+LONG: 3.080635]]></description>
+				<Point>
+					<coordinates>3.080635,45.772887,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>H&amp;M</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>32 Rue Père Chevrier</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>69007</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Lyon</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>45.749031</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>4.843597</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 32 Rue Père Chevrier
+Cp: 69007
+Villes: Lyon
+LAT: 45.749031
+LONG: 4.843597]]></description>
+				<Point>
+					<coordinates>4.843597,45.749031,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Gabrielle Geppert</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>102 Avenue Paul Santy</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>69008</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Lyon</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>45.729383</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>4.873123</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 102 Avenue Paul Santy
+Cp: 69008
+Villes: Lyon
+LAT: 45.729383
+LONG: 4.873123]]></description>
+				<Point>
+					<coordinates>4.873123,45.729383,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Berenice</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>150 Route du Jaillet</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>74120</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Megève</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>45.859388</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>6.615508</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 150 Route du Jaillet
+Cp: 74120
+Villes: Megève
+LAT: 45.859388
+LONG: 6.615508]]></description>
+				<Point>
+					<coordinates>6.615508,45.859388,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>MammaFashion</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>43 Rue Huguerie</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>33000</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Bordeaux</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>44.84477</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>-0.580559</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 43 Rue Huguerie
+Cp: 33000
+Villes: Bordeaux
+LAT: 44.84477
+LONG: -0.580559]]></description>
+				<Point>
+					<coordinates>-0.580559,44.84477,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>H&amp;M</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>31 Rue Jac Belaubre</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>33200</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Bordeaux</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>44.847204</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>-0.631371</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 31 Rue Jac Belaubre
+Cp: 33200
+Villes: Bordeaux
+LAT: 44.847204
+LONG: -0.631371]]></description>
+				<Point>
+					<coordinates>-0.631371,44.847204,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>H&amp;M</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>29 Rue Francin</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>33800</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Bordeaux</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>44.826754</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>-0.557899</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 29 Rue Francin
+Cp: 33800
+Villes: Bordeaux
+LAT: 44.826754
+LONG: -0.557899]]></description>
+				<Point>
+					<coordinates>-0.557899,44.826754,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Gabrielle Geppert</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>43 Avenue Félix Fauré</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>26000</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Valence</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>44.930488</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>4.895096</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 43 Avenue Félix Fauré
+Cp: 26000
+Villes: Valence
+LAT: 44.930488
+LONG: 4.895096]]></description>
+				<Point>
+					<coordinates>4.895096,44.930488,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Berenice</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>2 Cours la Fontaine</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>38000</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Grenoble</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>45.187554</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>5.725937</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 2 Cours la Fontaine
+Cp: 38000
+Villes: Grenoble
+LAT: 45.187554
+LONG: 5.725937]]></description>
+				<Point>
+					<coordinates>5.725937,45.187554,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>MammaFashion</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>16 Rue Ancien Hôtel-de-ville</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>84100</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Orange</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>44.138289</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>4.806862</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 16 Rue Ancien Hôtel-de-ville
+Cp: 84100
+Villes: Orange
+LAT: 44.138289
+LONG: 4.806862]]></description>
+				<Point>
+					<coordinates>4.806862,44.138289,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>H&amp;M</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>52 Boulevard Sergent Triaire</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>30900</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Nîmes</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>43.828137</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>4.359169</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 52 Boulevard Sergent Triaire
+Cp: 30900
+Villes: Nîmes
+LAT: 43.828137
+LONG: 4.359169]]></description>
+				<Point>
+					<coordinates>4.359169,43.828137,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Gabrielle Geppert</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>8 Avenue des Lierres</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>84000</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Avignon</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>43.940132</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>4.803772</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 8 Avenue des Lierres
+Cp: 84000
+Villes: Avignon
+LAT: 43.940132
+LONG: 4.803772]]></description>
+				<Point>
+					<coordinates>4.803772,43.940132,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Berenice</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>2 Rue des Capitouls</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>81100</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Castres</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>43.606922</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>2.241039</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 2 Rue des Capitouls
+Cp: 81100
+Villes: Castres
+LAT: 43.606922
+LONG: 2.241039]]></description>
+				<Point>
+					<coordinates>2.241039,43.606922,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>H&amp;M</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>62 Rue Lancefoc</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>31000</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Toulouse</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>43.609333</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>1.432686</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 62 Rue Lancefoc
+Cp: 31000
+Villes: Toulouse
+LAT: 43.609333
+LONG: 1.432686]]></description>
+				<Point>
+					<coordinates>1.432686,43.609333,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>MammaFashion</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>34 Rue des Teinturiers</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>31300</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Toulouse</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>43.59648</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>1.432686</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 34 Rue des Teinturiers
+Cp: 31300
+Villes: Toulouse
+LAT: 43.59648
+LONG: 1.432686]]></description>
+				<Point>
+					<coordinates>1.432686,43.59648,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Berenice</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>21 Rue Charles Floquet</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>64100</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Bayonne</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>43.492882</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>-1.464615</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 21 Rue Charles Floquet
+Cp: 64100
+Villes: Bayonne
+LAT: 43.492882
+LONG: -1.464615]]></description>
+				<Point>
+					<coordinates>-1.464615,43.492882,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>H&amp;M</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>5 Quai François Batllo</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>66000</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Perpignan</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>42.701664</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>2.893696</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 5 Quai François Batllo
+Cp: 66000
+Villes: Perpignan
+LAT: 42.701664
+LONG: 2.893696]]></description>
+				<Point>
+					<coordinates>2.893696,42.701664,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Gabrielle Geppert</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>47 Allée Paul Riquet</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>34500</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Béziers</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>43.34101</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>3.218307</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 47 Allée Paul Riquet
+Cp: 34500
+Villes: Béziers
+LAT: 43.34101
+LONG: 3.218307]]></description>
+				<Point>
+					<coordinates>3.218307,43.34101,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Berenice</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>3 Rue d'Alger</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>34000</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Montpellier</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>43.605928</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>3.877487</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 3 Rue d'Alger
+Cp: 34000
+Villes: Montpellier
+LAT: 43.605928
+LONG: 3.877487]]></description>
+				<Point>
+					<coordinates>3.877487,43.605928,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>MammaFashion</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>974 Avenue du Pirée</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>34000</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Montpellier</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>43.602571</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>3.895168</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 974 Avenue du Pirée
+Cp: 34000
+Villes: Montpellier
+LAT: 43.602571
+LONG: 3.895168]]></description>
+				<Point>
+					<coordinates>3.895168,43.602571,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>H&amp;M</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>21 Rue des Loutres</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>34090</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Montpellier</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>43.624197</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>3.876629</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 21 Rue des Loutres
+Cp: 34090
+Villes: Montpellier
+LAT: 43.624197
+LONG: 3.876629]]></description>
+				<Point>
+					<coordinates>3.876629,43.624197,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Gabrielle Geppert</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>74 Boulevard Sergent Triaire</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>30900</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Nîmes</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>43.826032</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>4.355736</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 74 Boulevard Sergent Triaire
+Cp: 30900
+Villes: Nîmes
+LAT: 43.826032
+LONG: 4.355736]]></description>
+				<Point>
+					<coordinates>4.355736,43.826032,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Berenice</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>554 Chemin du Petit Barthélémy</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>13100</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Aix-en-Provence</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>43.519228</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>5.435829</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 554 Chemin du Petit Barthélémy
+Cp: 13100
+Villes: Aix-en-Provence
+LAT: 43.519228
+LONG: 5.435829]]></description>
+				<Point>
+					<coordinates>5.435829,43.519228,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>H&amp;M</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>27 Rue de la République</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>13002</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Marseille</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>43.298548</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>5.371971</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 27 Rue de la République
+Cp: 13002
+Villes: Marseille
+LAT: 43.298548
+LONG: 5.371971]]></description>
+				<Point>
+					<coordinates>5.371971,43.298548,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Gabrielle Geppert</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>35 Avenue du 24 Avril 1915</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>13012</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Marseille</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>43.308542</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>5.428276</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 35 Avenue du 24 Avril 1915
+Cp: 13012
+Villes: Marseille
+LAT: 43.308542
+LONG: 5.428276]]></description>
+				<Point>
+					<coordinates>5.428276,43.308542,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>H&amp;M</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>10 Rue d'Antrechaus</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>83000</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Toulon</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>43.125444</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>5.933905</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 10 Rue d'Antrechaus
+Cp: 83000
+Villes: Toulon
+LAT: 43.125444
+LONG: 5.933905]]></description>
+				<Point>
+					<coordinates>5.933905,43.125444,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Gabrielle Geppert</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>20 Rue des Serbes</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>06400</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Cannes</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>43.551746</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>7.021036</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 20 Rue des Serbes
+Cp: 06400
+Villes: Cannes
+LAT: 43.551746
+LONG: 7.021036]]></description>
+				<Point>
+					<coordinates>7.021036,43.551746,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>MammaFashion</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Adresses</displayName>
+						<value>4 Rue Sainte-Reparate</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Cp</displayName>
+						<value>06300</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Villes</displayName>
+						<value>Nice</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LAT</displayName>
+						<value>43.696722</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>LONG</displayName>
+						<value>7.276039</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Adresses: 4 Rue Sainte-Reparate
+Cp: 06300
+Villes: Nice
+LAT: 43.696722
+LONG: 7.276039]]></description>
+				<Point>
+					<coordinates>7.276039,43.696722,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-FF8277'>
+			<IconStyle>
+				<color>ff7782FF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

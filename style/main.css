@@ -1,0 +1,291 @@
+@font-face {
+    font-family: 'Champagne Bold';
+    src: url('../fonts/champagnebold/champagne__limousines_bold-webfont.eot');
+    src: url('../fonts/champagnebold/champagne__limousines_bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/champagnebold/champagne__limousines_bold-webfont.woff') format('woff'),
+         url('../fonts/champagnebold/champagne__limousines_bold-webfont.ttf') format('truetype'),
+         url('../fonts/champagnebold/champagne__limousines_bold-webfont.svg#champagne__limousinesbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body, html{
+	margin:0;
+	padding: 0;
+        font-family: 'Myriad Pro', 'PT Sans';
+        color:black;
+        font-size: 14px;
+
+}
+
+li{
+    list-style-type: none;
+}
+
+body{
+    background: #f3f3f1;
+}
+
+h1{
+    font-size: 30px;
+        font-family: 'Myriad Pro';
+    font-weight: bolder;
+}
+.active{
+
+        border-top: 2px solid white;
+
+}
+
+header{
+	height: 185px;
+	background: url('../img/bg.jpg');
+}
+
+header img{
+	margin-top: 25px;
+}
+
+.wrapper{
+    margin: 0 auto;
+    width: 980px;
+
+}
+
+.center{
+	text-align: center;
+}
+
+header ul{
+    padding: 0;
+        margin: 30px 0 0;
+    list-style-type: none;
+}
+
+header ul li{
+  margin-right: 42px;
+    display: inline-block;
+}
+
+header ul li:last-child {
+    margin-right: 0px;
+}
+
+header ul li a{
+    font-family: 'Myriad Pro';
+    font-weight: bolder;
+    font-size: 21px;
+    color: white;
+    text-decoration: none;
+        padding-top: 6px;
+}
+
+
+
+header ul li a:hover{
+    border-top: 2px solid white;
+}
+
+
+/*CONTENU*/
+.contenu{
+    margin-top: 30px;
+}
+.contenu p{
+    text-align: justify;
+    font-size: 14px;
+        padding-left: 20px;
+    padding-right: 20px;
+}
+
+/*CREATEURS*/
+/*HUGUES*/
+.hugues{
+      width: 488px;
+    display: inline-block;
+    
+}
+
+.hugues h1{
+    text-align: center;
+}
+.photocrea{
+display: block;
+margin: 0 auto; 
+}
+
+
+/*SCOTT*/
+
+.scott{
+
+    display: inline-block;
+      width: 488px;
+    vertical-align: top;
+}
+
+.scott h1{
+    text-align: center;
+}
+
+/*FOOTER*/
+footer{
+    background: url('../img/bg.jpg');
+    height: 70px;
+}
+footer a {
+    text-decoration: none;
+    display: inline-block;
+}
+footer ul{
+  border-left: 1px solid white;
+    display: inline-block;
+    padding-left: 17px;
+}
+footer ul li{
+    display: inline-block;
+}
+
+footer a {
+    margin-left: 7px;
+    text-decoration: none;
+    color: white;
+     vertical-align: middle;
+}
+
+.foot{
+    float: right;
+}
+
+.mention {
+    margin-right: 18px;
+}
+
+/*MARQUE*/
+/*HISTORIQUE*/
+.histo{
+    position: relative;
+
+}
+.histo h1{
+     margin: 0;
+        font-family: 'Myriad Pro';
+    font-size: 30px;
+    font-weight: bolder;
+    position: absolute;
+    
+}
+.histo p{
+
+    display: inline-block;
+    line-height: 33px;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    width: 490px;
+}
+
+/*MARQUE*/
+.lamarque{
+    position: relative;
+}
+.lamarque h1{
+    left: 503px;
+    margin: 0;
+    position: absolute;
+    top: 0;}
+.lamarque p {
+    display: inline-block;
+    padding: 0 0 0 15px;
+    width: 474px;
+}
+
+.lamarque img{
+    display: inline-block;
+}
+/*LOOKBOOK*/
+#thumbs {overflow:auto; list-style:none; padding:0;}
+
+#thumbs a {display:inline-block;block; outline:none;}
+#thumbs a:hover, #thumbs a:focus {background:#fff;}
+#thumbs a.actif {background:#000;}
+#viewer {position:relative; float: right}
+#viewer img[src*="loader"] {position:absolute; left:50%; top:50%; margin:-15px 0 0 -15px;}
+
+#thumbs a:nth-child(-n+4) {
+   margin-left: 21px;
+    margin-right: 18px;
+
+}
+#thumbs a:nth-child(5) {
+     
+margin-left: 8px;
+
+}
+#thumbs a:nth-child(14){
+    margin-left:0px;
+    margin-right:0px;
+}
+
+#thumbs a:nth-child(1) {
+    margin-left: 0;
+     }
+
+#thumbs a:nth-child(n+6){
+    margin-bottom: 39px;
+    margin-top: 40px;
+}
+#thumbs a:nth-child(n+10){
+    margin-left: 7px;
+    margin-right: 7px;
+    margin-top: 0;
+}
+.photo{
+    margin-top: 20px;
+}
+
+/*catalogue*/
+.envoie{
+     background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border: 2px solid #000000;
+    cursor: pointer;
+    font-size: 28px;
+    font-weight: bolder;}
+
+.offre{
+   display: inline-block;
+    float: right;
+    font-size: 12px;
+    margin-left: 11px;
+    margin-top: 0;
+    vertical-align: middle;
+    width: 215px;
+}
+
+.catalogue input{
+    width: 245px;
+
+}
+
+.imgcata{
+    display: inline-block;
+    margin-right: 13px;
+    margin-top: 83px;
+     margin-bottom: 39px;
+}
+
+.formu{
+    vertical-align: top;
+       display: inline-block;
+  width: 508px;}
+
+  label{
+    font-size:14px;
+  }
+
+  .succes{
+        display: inline-block;
+    vertical-align: 156px;
+    width: 508px;
+  }

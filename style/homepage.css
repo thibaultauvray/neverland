@@ -1,0 +1,46 @@
+@font-face {
+    font-family: 'Champagne Bold';
+    src: url('../fonts/champagnebold/champagne__limousines_bold-webfont.eot');
+    src: url('../fonts/champagnebold/champagne__limousines_bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/champagnebold/champagne__limousines_bold-webfont.woff') format('woff'),
+         url('../fonts/champagnebold/champagne__limousines_bold-webfont.ttf') format('truetype'),
+         url('../fonts/champagnebold/champagne__limousines_bold-webfont.svg#champagne__limousinesbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body, html{
+    font-family: 'Champagne Bold';
+	margin:0;
+	padding: 0;
+}
+
+body{
+	background: url('../img/bg.jpg');
+}
+
+.wrapper{
+    margin: 0 auto;
+    text-align: center;
+    width: 980px;
+
+}
+
+.texte{
+	text-align: center;
+}
+a{
+	text-decoration: none;
+	color: white;
+	font-size: 34px;
+}
+
+.contour {
+	border: 5px solid white;
+}
+
+.logo{
+	    margin-bottom: 20px;
+    margin-top: 20px;
+}

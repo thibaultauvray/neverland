@@ -1,0 +1,32 @@
+/* @override http://newmediacampaigns.com/css/compiled.css */
+
+/* Eric Meyer Reset */
+
+:focus { outline: 0; }
+
+
+/* Content */
+
+#content{ padding: 20px 0; }
+
+/* Content - Portfolio Listing */
+
+ul#portfolio-filter{    padding: 0;
+    text-align: center;}
+ul#portfolio-filter li{ display: inline; }
+ul#portfolio-filter a{ margin-right: 0.5em; padding: 0.5em 1em; background: #FFF; color: #AAA; font-weight: bold; text-decoration: none; }
+ul#portfolio-filter a:hover, ul#portfolio-filter a.current{ color: #888; }
+ul#portfolio-filter a.current{ background-color: #DDD; }
+
+ul#portfolio-list{ margin: 36px 0 0 0; padding: 0; list-style: none; }
+ul#portfolio-list li{ display: block; float: left;margin-left: 24px; margin-right: 24px; overflow: hidden; }
+ul#portfolio-list li a{ display: block; overflow: hidden; }
+ul#portfolio-list li p{ font-size: 14px; line-height: 15px; color: black;text-align: center;  }
+ul#portfolio-list li:nth-child(5n+1){
+
+	margin-left:0;
+} 
+ul#portfolio-list li:nth-child(5n+5){
+
+	margin-right:0;
+} 
